@@ -1,0 +1,77 @@
+2025-04-20 22:17:36,819 - INFO - Création/vérification de la base de données et des tables...
+2025-04-20 22:17:36,837 - INFO - Base de données 'pandemic_impact' et tables créées avec succès.
+2025-04-20 22:17:36,864 - INFO - Traitement de la source: covid_global
+2025-04-20 22:17:36,865 - INFO - Téléchargement depuis https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
+2025-04-20 22:17:52,274 - INFO - Données sauvegardées dans data\covid_global.csv
+2025-04-20 22:17:52,539 - INFO - Insertion de 1000 lignes dans 'donnees_covid'...
+2025-04-20 22:17:52,725 - INFO - Insertion réussie dans 'donnees_covid'
+2025-04-20 22:17:52,725 - INFO - Traitement de la source: monkeypox_global
+2025-04-20 22:17:52,726 - INFO - Téléchargement depuis https://raw.githubusercontent.com/owid/monkeypox/main/owid-monkeypox-data.csv
+2025-04-20 22:17:53,899 - INFO - Données sauvegardées dans data\monkeypox_global.csv
+2025-04-20 22:17:53,942 - INFO - Insertion de 1000 lignes dans 'donnees_variole'...
+2025-04-20 22:17:54,053 - INFO - Insertion réussie dans 'donnees_variole'
+2025-04-20 22:17:54,054 - INFO - Création de la table combinée...
+2025-04-20 22:17:54,189 - INFO - Table 'pandemies_combinees' créée avec succès.
+2025-04-20 22:17:54,196 - INFO - Tables présentes dans 'pandemic_impact':
+  Tables_in_pandemic_impact
+0        combined_pandemics
+1              covid19_data
+2                covid_data
+3             donnees_covid
+4           donnees_variole
+5            monkeypox_data
+6       pandemies_combinees
+2025-04-20 22:17:54,201 - INFO - Nombre de lignes dans 'combined_pandemics': 0
+2025-04-20 22:17:54,207 - INFO - Nombre de lignes dans 'covid19_data': 1000
+2025-04-20 22:17:54,211 - INFO - Nombre de lignes dans 'covid_data': 0
+2025-04-20 22:17:54,216 - INFO - Nombre de lignes dans 'donnees_covid': 1000
+2025-04-20 22:17:54,221 - INFO - Nombre de lignes dans 'donnees_variole': 1000
+2025-04-20 22:17:54,226 - INFO - Nombre de lignes dans 'monkeypox_data': 0
+2025-04-20 22:17:54,231 - INFO - Nombre de lignes dans 'pandemies_combinees': 2000
+2025-04-20 22:17:54,231 - INFO - Pipeline ETL terminé avec succès.
+2025-04-20 22:19:07,956 - INFO - Création/vérification de la base de données et des tables...
+2025-04-20 22:19:07,993 - INFO - Base de données 'pandemic_impact' et tables créées avec succès.
+2025-04-20 22:19:08,020 - INFO - Traitement de la source: covid_global
+2025-04-20 22:19:08,021 - INFO - Téléchargement depuis https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
+2025-04-20 22:19:23,176 - INFO - Données sauvegardées dans data\covid_global.csv
+2025-04-20 22:19:23,412 - INFO - Insertion de 1000 lignes dans 'donnees_covid'...
+2025-04-20 22:19:23,598 - INFO - Insertion réussie dans 'donnees_covid'
+2025-04-20 22:19:23,598 - INFO - Traitement de la source: monkeypox_global
+2025-04-20 22:19:23,599 - INFO - Téléchargement depuis https://raw.githubusercontent.com/owid/monkeypox/main/owid-monkeypox-data.csv
+2025-04-20 22:19:24,839 - INFO - Données sauvegardées dans data\monkeypox_global.csv
+2025-04-20 22:19:24,885 - INFO - Insertion de 1000 lignes dans 'donnees_variole'...
+2025-04-20 22:19:25,001 - INFO - Insertion réussie dans 'donnees_variole'
+2025-04-20 22:19:25,001 - INFO - Création de la table combinée...
+2025-04-20 22:19:25,144 - INFO - Table 'pandemies_combinees' créée avec succès.
+2025-04-20 22:19:25,152 - INFO - Tables présentes dans 'pandemic_impact':
+  Tables_in_pandemic_impact
+0             donnees_covid
+1           donnees_variole
+2       pandemies_combinees
+2025-04-20 22:19:25,159 - INFO - Nombre de lignes dans 'donnees_covid': 1000
+2025-04-20 22:19:25,164 - INFO - Nombre de lignes dans 'donnees_variole': 1000
+2025-04-20 22:19:25,170 - INFO - Nombre de lignes dans 'pandemies_combinees': 2000
+2025-04-20 22:19:25,171 - INFO - Pipeline ETL terminé avec succès.
+2025-04-20 22:20:53,953 - INFO - Création/vérification de la base de données et des tables...
+2025-04-20 22:20:53,962 - INFO - Base de données 'pandemic_impact' et tables créées avec succès.
+2025-04-20 22:20:54,008 - INFO - Traitement de la source: covid_global
+2025-04-20 22:20:54,009 - INFO - Téléchargement depuis https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
+2025-04-20 22:21:09,327 - INFO - Données sauvegardées dans data\covid_global.csv
+2025-04-20 22:21:09,585 - INFO - Insertion de 1000 lignes dans 'donnees_covid'...
+2025-04-20 22:21:09,765 - INFO - Insertion réussie dans 'donnees_covid'
+2025-04-20 22:21:09,766 - INFO - Traitement de la source: monkeypox_global
+2025-04-20 22:21:09,766 - INFO - Téléchargement depuis https://raw.githubusercontent.com/owid/monkeypox/main/owid-monkeypox-data.csv
+2025-04-20 22:21:10,865 - INFO - Données sauvegardées dans data\monkeypox_global.csv
+2025-04-20 22:21:10,911 - INFO - Insertion de 1000 lignes dans 'donnees_variole'...
+2025-04-20 22:21:11,016 - INFO - Insertion réussie dans 'donnees_variole'
+2025-04-20 22:21:11,017 - INFO - Création de la table combinée...
+2025-04-20 22:21:11,274 - INFO - Table 'pandemies_combinees' créée avec succès.
+2025-04-20 22:21:11,283 - INFO - Tables présentes dans 'pandemic_impact':
+  Tables_in_pandemic_impact
+0             donnees_covid
+1           donnees_variole
+2       pandemies_combinees
+2025-04-20 22:21:11,287 - INFO - Nombre de lignes dans 'donnees_covid': 2000
+2025-04-20 22:21:11,292 - INFO - Nombre de lignes dans 'donnees_variole': 2000
+2025-04-20 22:21:11,299 - INFO - Nombre de lignes dans 'pandemies_combinees': 4000
+2025-04-20 22:21:11,299 - INFO - Pipeline ETL terminé avec succès.

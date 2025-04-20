@@ -1,0 +1,13 @@
+data_directory: "data"
+database_name: "pandemic_impact"
+
+data_sources:
+  - name: "covid_global"
+    type: "csv"
+    url: "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv"
+    disease: "covid19"
+
+  - name: "monkeypox_global"
+    type: "csv"
+    url: "https://raw.githubusercontent.com/owid/monkeypox/main/owid-monkeypox-data.csv"
+    disease: "monkeypox"
