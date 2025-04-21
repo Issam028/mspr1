@@ -1,0 +1,12 @@
+database_name: "pandemic_impact"
+data_directory: "data"
+data_sources:
+  - name: "covid_global"
+    url: "data/covid_global.csv"
+    disease: "covid19"
+  - name: "monkeypox_global"
+    url: "data/monkeypox_global.csv"
+    disease: "monkeypox"
+  - name: "ebola_global"
+    url: "data/ebola_global.csv"
+    disease: "ebola"
